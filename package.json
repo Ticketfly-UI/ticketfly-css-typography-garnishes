@@ -1,6 +1,6 @@
 {
   "name": "ticketfly-css-typography-garnishes",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Typography garnish helpers for Ticketfly CSS",
   "main": "index.css",
   "style": "index.css",
